@@ -1,3 +1,3 @@
-# Meu primeiro repositório ( Desafio DIO )
+# Meu primeiro repositorio ( Desafio DIO )
 
 Receita Bolo de Cenoura
